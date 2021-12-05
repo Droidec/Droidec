@@ -6,8 +6,8 @@ Confidence level per programming language:
 
 | Language | Confidence | Comment |
 | --- | --- | --- |
-| <a target="_blank"><img alt="C" height="42px" src="assets/C.svg"></a> | https://img.shields.io/badge/-90%25-brightgreen | I started programming this way
-| <a target="_blank"><img alt="Python" height="42px" src="assets/python.svg"></a> | https://img.shields.io/badge/-70%25-green | I fell in love with this one, simple and readable
+| <a target="_blank"><img alt="C" height="42px" src="assets/C.svg"></a> | <img alt="90%" src="https://img.shields.io/badge/-90%25-brightgreen"/> | I started programming this way
+| <a target="_blank"><img alt="Python" height="42px" src="assets/Python.svg"></a> | <img alt="70%" src="https://img.shields.io/badge/-70%25-green"/> | I fell in love with this one, simple and readable
 
 <!--
 **Droidec/Droidec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
