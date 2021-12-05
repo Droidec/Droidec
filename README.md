@@ -1,14 +1,14 @@
-### 💬 About me
+### 💬 &nbsp About me
 
 Hi, my name is Marc. I'm working as a computer scientist in a famous French bank.  
 Programming is a passion and I made it my job!
 
-### 🕹️ Skills
+### 🕹️ &nbsp Skills
 
-| Language | Confidence | Comment |
-| --- | --- | --- |
+| Language | Confidence | Comment
+| --- | --- | ---
 | <a target="_blank"><img alt="C" height="42px" src="assets/C.svg"></a> | <img alt="90%" src="https://img.shields.io/badge/-90%25-brightgreen"/> | I started programming this way
-| <a target="_blank"><img alt="Python" height="42px" src="assets/Python.svg"></a> | <img alt="70%" src="https://img.shields.io/badge/-70%25-green"/> | I fell in love with this one, simple and readable
+| <a href="https://www.python.org/" target="_blank"><img alt="Python" height="42px" src="assets/Python.svg"></a> | <img alt="70%" src="https://img.shields.io/badge/-70%25-green"/> | Fell in love with this one
 
 <!--
 **Droidec/Droidec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
