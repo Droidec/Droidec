@@ -1,9 +1,9 @@
-### 💬 &nbsp About me
+### 💬 About me
 
 Hi, my name is Marc. I'm working as a computer scientist in a famous French bank.  
 Programming is a passion and I made it my job!
 
-### 🕹️ &nbsp Skills
+### 🕹️ Skills
 
 | Language | Confidence | Comment
 | --- | --- | ---
