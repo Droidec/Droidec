@@ -1,7 +1,9 @@
 ### 💬 About me
 
-Hi, my name is Marc, I live in 🇫🇷 <b>Alsace, France</b>. I'm working as a computer scientist in a famous French bank.  
-Programming is a passion and I made it my job!
+Hi, my name is Marc.  
+I live in 🇫🇷 <b>Alsace, France</b>. I'm working as a computer scientist in a famous French bank.  
+
+> Programming is a passion and I made it my job!
 
 ### 🕹️ Skills
 
