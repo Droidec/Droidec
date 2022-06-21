@@ -11,4 +11,3 @@ I'm working as a computer scientist in a famous French bank.
 | <a href="https://www.python.org/"><img alt="Python" height="42px" src="assets/Python.svg"></a> | <img alt="70%" src="https://img.shields.io/badge/-70%25-green"/> | Fell in love with this one
 | <a href="https://www.mysql.com/"><img alt="MySQL" height="42px" src="assets/MySQL.svg"></a> | <img alt="50%" src="https://img.shields.io/badge/-50%25-yellow"/> | I know the basics
 | <a href="https://ocaml.org/"><img alt="OCaml" height="42px" src="assets/OCaml.svg"></a> | <img alt="40%" src="https://img.shields.io/badge/-40%25-orange"/> | Rusty skills
-| <a href="https://www.rust-lang.org/"><img alt="Rust" height="42px" src="assets/Rust.svg"></a> | <img alt="30%" src="https://img.shields.io/badge/-30%25-red"/> | Still learning
